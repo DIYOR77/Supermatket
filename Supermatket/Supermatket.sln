@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermatket", "Supermatket\Supermatket.csproj", "{C647B9B2-CB6C-4D45-90F1-FF0EFEC74607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C647B9B2-CB6C-4D45-90F1-FF0EFEC74607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C647B9B2-CB6C-4D45-90F1-FF0EFEC74607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C647B9B2-CB6C-4D45-90F1-FF0EFEC74607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C647B9B2-CB6C-4D45-90F1-FF0EFEC74607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE35C10-DC50-412A-84E4-7CB3551761A5}
+	EndGlobalSection
+EndGlobal
